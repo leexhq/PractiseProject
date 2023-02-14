@@ -1,2 +1,2 @@
 # PractiseProject
-Practise
+Simple Calculator
